@@ -1,0 +1,2 @@
+test_operations,paymasters,coverage_percentage,underestimation_percentage,actual_total_cost_eth,predicted_total_cost_eth,actual_to_predicted_total_ratio,mean_absolute_error_eth
+3896,17,70.84188911704312,29.158110882956876,0.00029781399147552794,0.00044997636178414056,0.6618436361739223,7.571940232257035e-08
